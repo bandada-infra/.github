@@ -11,3 +11,10 @@ Bandada is an infrastructure to manage privacy-preserving groups.
 * 🐛 Create a report if you find any bugs in the code ([bandada-issue](https://github.com/bandada-infra/bandada/issues/new))
 
 As a Bandada contributor, you'll be able to claim a special [GitPOAP](https://www.gitpoap.io/gp/1089) per year 🏅
+
+> **Warning**  
+> Any pull requests are more than welcome, but remember to create an issue first!
+
+#### Who are we?
+
+Bandada is part of [Privacy & Scaling Explorations](https://pse.dev/) (PSE), a multidisciplinary team supported by the Ethereum Foundation. PSE explores new use cases for zero-knowledge proofs and other cryptographic primitives.
