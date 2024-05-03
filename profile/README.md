@@ -2,6 +2,12 @@
 
 Bandada is an infrastructure to manage privacy-preserving groups.
 
+#### Looking for more information?
+- Dashboard: https://bandada.pse.dev
+- Documentation: https://docs.bandada.pse.dev
+- X (Twitter): https://twitter.com/BandadaDevs
+- Demo: https://demo.bandada.pse.dev
+
 #### Ways to contribute
 
 * 🔧 Work on [open issues](https://github.com/bandada-infra/bandada/contribute)
